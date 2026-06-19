@@ -1,2 +1,2 @@
-package com.epic.rentalkendaraan.domain.enums;
+package com.rentalkendaraan.domain.enums;
 public enum StatusTransaksi { BERJALAN, SELESAI }

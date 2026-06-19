@@ -1,10 +1,10 @@
-package com.epic.rentalkendaraan;
+package com.rentalkendaraan;
 
-import com.epic.rentalkendaraan.domain.User;
-import com.epic.rentalkendaraan.repository.*;
-import com.epic.rentalkendaraan.service.*;
-import com.epic.rentalkendaraan.ui.LoginView;
-import com.epic.rentalkendaraan.ui.dashboard.*;
+import com.rentalkendaraan.domain.User;
+import com.rentalkendaraan.repository.*;
+import com.rentalkendaraan.service.*;
+import com.rentalkendaraan.ui.LoginView;
+import com.rentalkendaraan.ui.dashboard.*;
 
 import java.io.*;
 import java.util.Scanner;
